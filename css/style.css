@@ -1,0 +1,41 @@
+*{
+background-color: red;
+height: auto;
+flex-wrap: wrap;
+
+
+}
+
+.container{
+    box-sizing: border-box;
+}
+
+.pokemon_list{
+    color: darkviolet;
+}
+
+.carta{
+    border-width: 2mm;
+    color: yellow;
+    box-sizing:0;
+    border: 0.5mm solid white;
+    height: 30%;
+    width: 30%;
+    flex-wrap: wrap;
+    
+}
+
+.nome_pokemon{
+    font-size: medium;
+    color: black;
+
+}
+
+.pokeball_number{
+    font-size: large;
+    color: greenyellow;
+}
+
+
+
+
