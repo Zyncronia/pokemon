@@ -12,44 +12,49 @@ background-color: pink;
 h1{
     padding: 15px;
     color: green;
-
+    text-align: center;
+    
 }
 
 .pokemon_list{
     color: darkviolet;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .img_carta{
     padding: 20px;
     color: aqua;
-    max-width: 100%;
+    max-width: 77%;
 }
 
 .carta{
     background-color: blue;
     padding: 5px;
-    height: 300px;
-    width: 150px;
+    height: 238px;
+    width: 180px;
     border: solid 5px red;
     align-content: center;
     margin: 5%;
-     
 }
 
 .nome_pokemon{
     font-size: medium;
     color: black;
-    background-origin: solid 50px yellow;
     align-content: center;
     margin: 5px;
+    text-align: center;
+    font-weight: bold;
+   
 }
 
 .pokeball_number{
     font-size: medium;
     color: purple;
-    background-origin: solid 50px yellow;
     align-content: center;
     margin: 5px;
+    text-align: center;
+    font-weight: bold;
 }
 
 
