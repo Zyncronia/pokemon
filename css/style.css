@@ -11,9 +11,8 @@ background-color: pink;
 
 h1{
     padding: 15px;
-    color: green;
     text-align: center;
-    
+        
 }
 
 .pokemon_list{
@@ -29,13 +28,15 @@ h1{
 }
 
 .carta{
-    background-color: blue;
+
+    background-color: fuchsia;
     padding: 5px;
     height: 238px;
     width: 180px;
-    border: solid 5px red;
+    border: solid 3px red;
     align-content: center;
     margin: 5%;
+    
 }
 
 .nome_pokemon{
